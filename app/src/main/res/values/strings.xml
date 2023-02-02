@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectUkl1</string>
+    <string name="perkenalan">Halo teman teman, diaplikasi ini saya akan menjelaskan tentang diri saya sendiri jadi aplikasi ini saya buat untuk menulis biografi saya. Selamat membaca</string>
+    <string name="biografi">Biografi</string>
+    <string name="nama_panjang">Nama Panjang</string>
+    <string name="pandu_putrakelana_ginting">Pandu Putrakelana Ginting</string>
+    <string name="ale">Ale</string>
+    <string name="nama_pendek">Nama Pendek</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki - Laki</string>
+    <string name="motivasi">Motivasi</string>
+    <string name="olahraga_lebih_tepatnya_basket_dan_badminton_ngoding_adalah_hobi_saya_yang_kedua_walaupun_saya_baru_saja_mulai_ngoding_tapi_ngoding_membuat_saya_senang">Olahraga, lebih tepatnya basket dan badminton. Ngoding adalah hobi saya yang kedua, walaupun saya baru saja mulai ngoding tapi ngoding membuat saya senang :)</string>
+</resources>
